@@ -1,5 +1,7 @@
 # Flutter - Animated Markers Map App
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="nobelleon" /> </p>
+
 Markers Map App Made in Flutter.
 
 ![Markers Map-horz](https://github.com/nobelleon/Animated-Markers-Map-App/assets/76748114/bcf68446-720f-4728-ae5c-db83aa3b95dd)
