@@ -6,6 +6,10 @@ Markers Map App Made in Flutter.
 
 ![Markers Map-horz](https://github.com/nobelleon/Animated-Markers-Map-App/assets/76748114/bcf68446-720f-4728-ae5c-db83aa3b95dd)
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 ## Features
 
 - Get google map from cloud.google.com  API
@@ -36,4 +40,11 @@ Install my-project at pubspec.yaml
 ## API Documentation
 
 Access Google map [API Docs](https://cloud.google.com/docs/) to get started.
+
+---
+
+## Don't forget to :star: the repository.
+
+## Support ❤️
+For support, you can contact me at this [Email](mailto:nobelleon.86@gmail.com) , [Instagram](https://www.instagram.com/nobelleon/) , [Facebook](https://web.facebook.com/n0beLLeon) , [X](https://twitter.com/_nObeLLeon) or at [LinkedIn](https://www.linkedin.com/in/nobelleon-mahardhika-291048124/) .
 
